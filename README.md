@@ -1,3 +1,3 @@
 
-[](/docs/result1.png)
-[](/docs/result2.png)
+![](/docs/result1.png)
+![](/docs/result2.png)
